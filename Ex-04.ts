@@ -1,0 +1,1 @@
+console.log('Imran Khan once said,"Aap ne Ghabrana nahi hai"');
